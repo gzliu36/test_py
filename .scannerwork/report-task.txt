@@ -1,0 +1,7 @@
+organization=gzliu36-github
+projectKey=pk1-gzliu36
+serverUrl=https://sonarcloud.io
+serverVersion=7.3.0.14089
+dashboardUrl=https://sonarcloud.io/dashboard?id=pk1-gzliu36
+ceTaskId=AWSm8-BwjBVAKLfOnLaY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWSm8-BwjBVAKLfOnLaY
